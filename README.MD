@@ -1,7 +1,3 @@
-Claro! Com base no seu código Python, aqui está uma descrição **detalhada e técnica** do seu projeto:
-
----
-
 ### 🔐 **Projeto: Porteiro Facial com DeepFace**
 
 O **Porteiro Facial** é um sistema de verificação de identidade por **reconhecimento facial**, ideal para uso em **portarias de condomínios**. Desenvolvido em **Python** com as bibliotecas **OpenCV** e **DeepFace**, o sistema realiza a **identificação automática de visitantes** a partir de uma imagem e decide se o **acesso ao portão deve ser liberado ou negado**.
