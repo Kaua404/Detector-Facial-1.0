@@ -1,2 +1,1 @@
-﻿# Detector-Facial-1.0
 

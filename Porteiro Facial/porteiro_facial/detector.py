@@ -55,5 +55,5 @@ cv2.destroyAllWindows() #Feche todas as janelas do OpenCV
 
 if_name_=='_main_':
 acesso_liberado, nome, caminho_foto_encontrada = verificar_rosto(imagem_visitante_path)
-mostrar_resultado(acesso_liberado, nome, foto_banco)
+mostrar_resultado(acesso_liberado, nome_pessoa, foto_banco)
 print('Fim da Busca')
